@@ -1,5 +1,3 @@
-![github-header-image](https://github.com/asadnobi/asadnobi/assets/24413519/209961e7-d2b0-4dc3-a6a0-ded3e3dd5bd7)
-
 ## About Me
 With extensive experience in web development, specializing in frontend technologies and Angular, I am dedicated to delivering exceptional results that propel businesses forward. Armed with a B.Sc in Computer Science and Engineering, I bring a solid foundation in software development principles and algorithms.
 
@@ -18,8 +16,10 @@ Renowned for my ability to adapt to evolving project requirements while maintain
 - Version Control: Git | Git flow
 
 ## Contact
-Mobile: 01681-372182
-Whatsapp: +880 1681-372182
-Email: ![asadnobi@gmail.com](mailto:asadnobi@gmail.com)
-Address: Sector-10, Uttara, Dhaka, Bangladesh
-Linkedin: ![Asadul Islam](https://www.linkedin.com/in/asadnobi-bd/)
+<ul>
+<li>Mobile: <a href="tel:+8801681372182">01681-372182</a></li>
+<li>Whatsapp: <a href="https://wa.me/01681372182">+880 1681-372182</a></li>
+<li>Email: <a href="mailto:asadnobi@gmail.com">asadnobi@gmail.com</a></li>
+<li>Address: <a href="https://maps.app.goo.gl/XwQJjDxg1RWRtj4T8">Sector-10, Uttara, Dhaka, Bangladesh</a></li>
+<li>Linkedin: <a href="https://www.linkedin.com/in/asadnobi-bd/">Asadul Islam</a></li>
+</ul>
